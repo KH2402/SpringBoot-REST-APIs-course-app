@@ -7,21 +7,33 @@ url-  http://localhost:8080
 
 Endpoints:
 1.Get All Courses:
+  <br>
   endpoint- /courses
+  <br>
   method- GET
-<br>  
+<br>  <br>
 2.Get course by ID
+  <br>
   endpoint- /courses/{courseId}
+  <br>
   method- GET
-<br>
+  
+<br><br>
 3.Add Course
+  <br>
   endpoint- /courses
+  <br>
   method- POST
-<br>
+<br><br>
 4.Update course
+  <br>
   endpoint- /courses/{courseId}
+  <br>
   method- PUT
+  <br>
 <br>
 5.Delete course
+<br>
   endpoint- /courses/{courseId}
+  <br>
   method- DELETE
